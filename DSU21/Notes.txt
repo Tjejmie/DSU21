@@ -1,0 +1,19 @@
+﻿Enity framework
+
+Code first --> generera de tabeller och kolumner som behövs
+
+Database first
+
+Kontrollera att du har installerat ef (i Developer command prompt)
+dotnet tool install --global dotnet-ef
+
+Installera NuGet Microsoft.EntityFrameworkCore.Design
+
+Vi kommer köra postgres
+Npgsql.EntityFrameworkCore.PostgreSQL
+
+
+Poco - vad som ska liras mot databasen
+
+När databasen ska skapas
+Gör en migrering
